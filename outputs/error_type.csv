@@ -1,0 +1,8 @@
+Error_ID,Error_Name,Severity,Description
+E1,Baseline missing,Medium,No baseline value reported for the indicator.
+E2,Mid target higher than end target,Medium,The mid-term target exceeds the end target (targets should be cumulative).
+E3,Mid and/or end target missing,High,Mid-term or end target is empty. Applies to all multipliers.
+E4,Actual far above end target,Medium,Reported actual is more than 3x the end target - likely a unit or data-entry error.
+E5,Invalid value,High,Negative or non-numeric value in a numeric field.
+E6,Unit inconsistent across years,Low,The same indicator is reported with different units in different years.
+E7,Reported value inconsistent with survey/MTR data,High,Actual differs by more than 20% from the value in the survey/MTR.

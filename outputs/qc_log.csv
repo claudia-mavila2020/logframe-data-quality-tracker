@@ -1,0 +1,11 @@
+File,Level,Message
+logframe_submission_eastmere.xlsx,INFO,16 rows read
+logframe_submission_highcrest.xlsx,WARNING,1 empty row(s) dropped
+logframe_submission_highcrest.xlsx,INFO,69 rows read
+logframe_submission_lakeshire.xlsx,INFO,42 rows read
+logframe_submission_northland.xlsx,INFO,69 rows read
+logframe_submission_riverbend.xlsx,INFO,42 rows read
+logframe_submission_southvale.xlsx,WARNING,"Headers normalised: 'Project ID' -> 'Project_ID', 'Project Name' -> 'Project_Name', 'EiF Year' -> 'EiF_Year', 'Completion Year' -> 'Completion_Year', 'Project Status' -> 'Project_Status', 'Indicator ID' -> 'Indicator_ID', 'Indicator Name' -> 'Indicator_Name', 'Result Level' -> 'Result_Level', 'Reporting Year' -> 'Reporting_Year', 'Mid Target' -> 'Mid_Target', 'End  Target ' -> 'End_Target', 'Survey Value' -> 'Survey_Value'"
+logframe_submission_southvale.xlsx,INFO,23 rows read
+logframe_submission_sunmoor.xlsx,INFO,57 rows read
+logframe_submission_westport.xlsx,INFO,42 rows read
